@@ -6,6 +6,8 @@ namespace lab2ex1
     {
         static void Main(string[] args)
         {
+            /*: Scrieti un program care va afisa suma cifrelor unui numar n, n fiind
+            citit de la tastatura*/
             int suma = 0;
 
             int x = int.Parse(Console.ReadLine());
