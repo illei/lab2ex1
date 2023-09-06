@@ -15,8 +15,8 @@ namespace lab2ex1
             {
 
 
-                ;
-                Console.WriteLine("\n");
+                
+               
 
 
                 suma = suma + x % 10;
